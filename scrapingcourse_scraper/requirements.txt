@@ -1,0 +1,8 @@
+scrapy
+sqlalchemy
+psycopg2-binary
+Pillow
+requests
+pytest
+coverage
+pytest-cov

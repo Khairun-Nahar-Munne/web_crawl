@@ -1,0 +1,5 @@
+/env
+images/
+htmlcov/
+.coverage
+**/__pycache__/
