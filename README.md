@@ -86,11 +86,12 @@ Before running this project, ensure you have the following installed:
 
 ### Installation
 
+If you installed my scrapy project before in your computer, you have to remove its container, volumes and images from your computer. Then, follow the below instructions for installing this project.
 1. Clone the repository
 
    ```bash
-   git clone https://github.com/Khairun-Nahar-Munne/Scrapy.git
-   cd Scrapy
+   git clone https://github.com/Khairun-Nahar-Munne/web_crawl.git
+   cd web_crawl
    ```
 2. Set Up a Virtual Environment
 
