@@ -212,8 +212,8 @@ Contributions are welcome! Here's how you can contribute:
 ### Fork the Repository
 
 ```bash
-- git clone https://github.com/Khairun-Nahar-Munne/Scrapy.git
-- cd Scrapy
+- git clone https://github.com/Khairun-Nahar-Munne/web_crawl.git
+- cd web_crawl
 ```
 
 ### Create a New Branch
